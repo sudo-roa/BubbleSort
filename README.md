@@ -7,8 +7,8 @@
 comming soon
 
 ## Usage
-- [C](https://github.com/sudo-roa/BubbleSort/C)
-- [Python3](https://github.com/sudo-roa/BubbleSort/Python3)
+- [C](https://github.com/sudo-roa/BubbleSort/tree/main/C)
+- [Python3](https://github.com/sudo-roa/BubbleSort/tree/main/Python3)
 
 ## Author
 [sudo-roa](https://github.com/sudo-roa)
