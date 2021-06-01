@@ -11,4 +11,4 @@ comming soon
 - [Python3](https://github.com/sudo-roa/BubbleSort/Python3)
 
 ## Author
-sudo-roa (https://github.com/sudo-roa)
+[sudo-roa](https://github.com/sudo-roa)
