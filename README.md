@@ -9,6 +9,7 @@ comming soon
 ## Usage
 - [C](https://github.com/sudo-roa/BubbleSort/tree/main/C)
 - [Python3](https://github.com/sudo-roa/BubbleSort/tree/main/Python3)
+- [Ruby](https://github.com/sudo-roa/BubbleSort/tree/main/Ruby)
 
 ## Author
 [sudo-roa](https://github.com/sudo-roa)
