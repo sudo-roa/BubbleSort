@@ -12,11 +12,15 @@
 ## Demo
 ![バブルソート](./BubbleSort.gif)
 <br>（C言語）
+![バブルソート](./BubbleSortJS.gif)
+<br>（JavaScript）
 
 ## Usage
 - [C](https://github.com/sudo-roa/BubbleSort/tree/main/C)
+- [JavaScript](https://github.com/sudo-roa/BubbleSort/tree/main/JavaScript)
 - [Python3](https://github.com/sudo-roa/BubbleSort/tree/main/Python3)
 - [Ruby](https://github.com/sudo-roa/BubbleSort/tree/main/Ruby)
+
 
 ## Author
 [sudo-roa](https://github.com/sudo-roa)
