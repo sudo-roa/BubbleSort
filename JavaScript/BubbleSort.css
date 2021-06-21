@@ -1,0 +1,16 @@
+#defaultCanvas0{
+  margin: 0 auto;
+}
+
+table{
+  padding: auto;
+  width: 720px;
+}
+
+td {
+  width: 62px;
+  height: 200px;
+  margin:auto 5px;
+  text-align: center;
+  vertical-align: middle;
+}
